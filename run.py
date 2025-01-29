@@ -1,5 +1,7 @@
 # TODO: make it remember conversations for a more "human" feel.
 # maybe i could use SQLite or Redis for this..
+# note: this fork is purely experimental and may not be usable
+# trying to make rag memory here
 
 # import everything
 import discord
